@@ -1,1 +1,1 @@
-# launcher-releases
+# app-releases
