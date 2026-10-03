@@ -1,45 +1,37 @@
 <div align="center">
 
-# Lunaria
+# Lunaria App
 
-Лаунчер Lunaria — заходишь в аккаунт и играешь на наших серверах в один клик.
+Lunaria App is the official launcher for Lunaria Minecraft servers.
 
-**[lunaria.land](https://lunaria.land)** · [Telegram](https://t.me/lunaria_land) · [Discord](https://discord.gg/SF4JbUs2QX)
+Sign in with your **Lunaria ID**, select a server, and launch the game with a single click. The launcher automatically downloads the required game files and keeps itself up to date.
+
+**[lunaria.land](https://lunaria.land) · [Telegram](https://t.me/lunaria_land) · [Discord](https://discord.gg/SF4JbUs2QX)**
 
 </div>
 
-## Скачать
+## Download
 
-| | |
-|:--|:--|
-| **Windows** | [Скачать для Windows](https://github.com/lunar1a/app-releases/releases/latest/download/Lunaria-windows-x64-setup.exe) |
-| **macOS** (Intel и Apple Silicon) | [Скачать для Mac](https://github.com/lunar1a/app-releases/releases/latest/download/Lunaria-macos-universal.dmg) |
-| **Linux** | [AppImage](https://github.com/lunar1a/app-releases/releases/latest/download/Lunaria-linux-x86_64.AppImage) · [.deb](https://github.com/lunar1a/app-releases/releases/latest/download/Lunaria-linux-x86_64.deb) |
+| Platform                          | Download                                                                                                                                                                                     |
+| :-------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Windows**                       | [Download for Windows](https://github.com/lunar1a/app-releases/releases/latest/download/Lunaria-windows-x64-setup.exe)                                                                       |
+| **macOS** (Intel & Apple Silicon) | [Download for Mac](https://github.com/lunar1a/app-releases/releases/latest/download/Lunaria-macos-universal.dmg)                                                                             |
+| **Linux**                         | [AppImage](https://github.com/lunar1a/app-releases/latest/download/Lunaria-linux-x86_64.AppImage) · [.deb](https://github.com/lunar1a/app-releases/latest/download/Lunaria-linux-x86_64.deb) |
 
-Лаунчер обновляется сам — скачать нужно только один раз.
+The launcher updates automatically, so you only need to download and install it once.
 
-## Как начать
+## Getting Started
 
-1. Установи и открой Lunaria.
-2. Войди через Lunaria ID.
-3. Выбери сервер и нажми «Играть» — игра и всё нужное скачаются сами.
+1. Download and install Lunaria App.
+2. Launch the application and sign in with your **Lunaria ID**.
+3. Select a server and click **Play**.
+4. Lunaria will automatically download the game and all required files.
 
-## Что внутри
+## Features
 
-- Наши серверы в один клик, сразу видно онлайн и пинг
-- Косметика — шапки, крылья, ауры, следы и питомцы — в игре, на сайте и в лаунчере
-- Друзья, сообщения и звонки, гардероб, достижения, квесты и сезонный пропуск
-- Шейдеры, ресурспаки и полезные моды — по одной галочке
-- Своё меню и интерфейс в игре, галерея скриншотов
-
-## Если что-то не так
-
-- **Mac не открывает приложение** — нажми на Lunaria правой кнопкой → «Открыть». Это нужно один раз.
-- **Вопросы и баги** — пиши в [Telegram](https://t.me/lunaria_land) или [Discord](https://discord.gg/SF4JbUs2QX).
-
----
-
-**English.** Lunaria is the launcher for our Minecraft servers: sign in with Lunaria ID, pick a
-server and press Play — the game and everything it needs download on their own, and the
-launcher keeps itself up to date. Downloads are in the table above. On a Mac, if it won't open
-the first time, right-click Lunaria and choose Open.
+* **One-click server access** — browse available servers and view their current online status and ping.
+* **Cosmetics** — hats, wings, auras, trails, pets, and other cosmetic items available in-game, on the website, and in the launcher.
+* **Social features** — friends, messaging, calls, wardrobe, achievements, quests, and the seasonal pass.
+* **Game customization** — enable shaders, resource packs, and supported utility mods with a single checkbox.
+* **Custom interface** — a dedicated Lunaria menu and in-game interface.
+* **Screenshot gallery** — conveniently access and manage your in-gam
