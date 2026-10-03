@@ -34,4 +34,19 @@ The launcher updates automatically, so you only need to download and install it 
 * **Social features** — friends, messaging, calls, wardrobe, achievements, quests, and the seasonal pass.
 * **Game customization** — enable shaders, resource packs, and supported utility mods with a single checkbox.
 * **Custom interface** — a dedicated Lunaria menu and in-game interface.
-* **Screenshot gallery** — conveniently access and manage your in-gam
+* **Screenshot gallery** — conveniently access and manage your in-game screenshots.
+* **Automatic updates** — the launcher keeps itself updated without requiring manual downloads.
+
+## Troubleshooting
+
+### macOS does not open the application
+
+If macOS prevents Lunaria from opening the first time, right-click the application and select **Open**. You may only need to do this once.
+
+### Questions and bug reports
+
+Please report bugs and submit questions through **[GitHub Issues](https://github.com/lunar1a/app-releases/issues)**.
+
+When reporting a bug, please include as much relevant information as possible, such as your operating system, launcher version, steps to reproduce the issue, and screenshots or logs if available.
+
+For general community communication, you can also join our **[Telegram](https://t.me/lunaria_land)** or **[Discord](https://discord.gg/SF4JbUs2QX)**.
